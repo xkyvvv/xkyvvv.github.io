@@ -2,7 +2,7 @@
 
 <img src="./pictures/me.jpg" alt="图片替换文本" width="400" height="300" align="bottom" />
 
-I am an embedded engineer, and I work on the application development of real-time embedded operating system. 
+I am an embedded engineer,and I work on the application development of real-time embedded operating system. 
 
 I received a bachelor's degree and a master's degree from Huazhong University of Science and Technology in 2018 and 2020.
 
@@ -10,7 +10,7 @@ ______
 
 ## Infromation
 
-Email : xkyxkyvvv@gmail.com()
+Email : xkyxkyvvv@gmail.com
 
 Github : [Github](https://github.com/xkyvvv)
 
