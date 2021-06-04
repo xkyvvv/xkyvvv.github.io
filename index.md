@@ -1,6 +1,6 @@
 ## Introduction
 
-![](./pictures/me.jpg)
+<img src="./pictures/me.jpg" alt="图片替换文本" width="400" height="300" align="bottom" />
 
 I am an embedded engineer, and I work on the application development of real-time embedded operating system. 
 
@@ -38,4 +38,5 @@ ______
 
 ## News
 
-* [2021-06-04]: Create a personal web page!
+* 2021-06-04: Create a personal web page!
+
