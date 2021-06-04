@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/xkyvvv/xkyvvv.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+![](./pictures/me.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am an embedded engineer, and I work on the application development of real-time embedded operating system. 
 
-### Markdown
+I received a bachelor's degree and a master's degree from Huazhong University of Science and Technology in 2018 and 2020.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+______
 
-```markdown
-Syntax highlighted code block
+## Infromation
 
-# Header 1
-## Header 2
-### Header 3
+Email : xkyxkyvvv@gmail.com()
 
-- Bulleted
-- List
+Github : [Github](https://github.com/xkyvvv)
 
-1. Numbered
-2. List
+CSDN blog : [BLOG](https://blog.csdn.net/qq_41854911)
 
-**Bold** and _Italic_ and `Code` text
+_______
 
-[Link](url) and ![Image](src)
-```
+## Publictions
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. Molecular Insight into Microbehaviors of n-Decane and CO2 in Mineral Nanopores
 
-### Jekyll Themes
+   Fengjie Peng*, **Kaiyang Xiong\***, Runxi Wang, Yufeng Li, Zhaoli Guo, Guang Feng
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xkyvvv/xkyvvv.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+   [PDF](https://sci-hub.se/10.1021/acs.energyfuels.9b04125)
 
-### Support or Contact
+-------
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Technology stack
+
+* C, Operating System, VxWorks, Data Structures and Algorithms, Communication bus, Principles of Computer Organization.
+* Python, ML, DL, TensorFlow.
+* Java, Software Architecture, Software engineering, Design Patterns.
+
+______
+
+## News
+
+* [2021-06-04]: Create a personal web page!
