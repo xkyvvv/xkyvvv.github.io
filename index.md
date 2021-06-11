@@ -1,6 +1,6 @@
-## Introduction
+## Introduction —— Kaiyang Xiong
 
-<img src="./pictures/me.jpg" alt="图片替换文本" width="400" height="300" align="bottom" />
+<img src="https://raw.githubusercontent.com/xkyvvv/blogPicture/main/me.jpg" alt="图片替换文本" width="400" height="300" align="bottom" />
 
 I am an embedded engineer,and I work on the application development of real-time embedded operating system. 
 
@@ -15,6 +15,8 @@ Email : xkyxkyvvv@gmail.com
 Github : [Github](https://github.com/xkyvvv)
 
 CSDN blog : [BLOG](https://blog.csdn.net/qq_41854911)
+
+Personal web page ：[Web](http://39.106.207.161/)
 
 _______
 
@@ -38,5 +40,6 @@ ______
 
 ## News
 
+* 2021-06-11：A webpage is deployed on the personal cloud server！
 * 2021-06-04: Create a personal web page!
 
